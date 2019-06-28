@@ -1,0 +1,18 @@
+p {
+  color: red;
+  font-family: cursive;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+ol {
+  color: red;
+  font-family: cursive;
+}
+
+#first {
+  color: grey;
+  font-family: cursive;
+}
